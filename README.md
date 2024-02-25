@@ -1,2 +1,2 @@
-<h1 align="center">Sup' 👋, I'm Henrik</h1>
-<h3 align="center">An ETH Student from Berlin</h3>
+<h1 align="center">Hello' 👋, I'm Henrik</h1>
+<h3 align="center">I study CS@ETHZ</h3>
